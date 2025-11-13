@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on DaraMovie<br>🌱 I’m currently learning Django, JS and Bootstrap
+🔭 I’m currently working on DaraMovie<br>🌱 I’m learning Django, JS and Bootstrap
 
 
 # 💻 Tech Stack:
