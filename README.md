@@ -10,8 +10,8 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=ebrahimig&theme=tokyonight&hide_border=false)<br/> <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ebrahimig&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ebrahimig&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+<!-- ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ebrahimig&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4) -->
 
 
 ### 🔝 Top Contributed Repo
