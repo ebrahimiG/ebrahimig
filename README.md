@@ -12,7 +12,7 @@
 
 
 
-<!-- ## 🏆 GitHub Trophies
+<!-- ##  🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ebrahimig&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4) -->
 
 
