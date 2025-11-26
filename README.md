@@ -11,9 +11,8 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=ebrahimig&theme=tokyonight&hide_border=false)
 
 
-
-<!-- ##  🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ebrahimig&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4) -->
+ ##  🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ebrahimig&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4) 
 
 
 ### 🔝 Top Contributed Repo
